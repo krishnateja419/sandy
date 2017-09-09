@@ -1,0 +1,5 @@
+echo "hello sandeep"
+mkdir sandeep
+cd sandeep
+echo text inserted > file2.txt
+ls -al
