@@ -1,0 +1,7 @@
+hello america
+mkdir sandy
+cd sandy
+ls -al
+git init
+ls -al
+exit
